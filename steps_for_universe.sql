@@ -116,8 +116,8 @@ INSERT INTO planet (name, name_rus, planet_year_of_description, planet_is_there_
    ('Neptune', 'Нептун', 1846, FALSE, FALSE, 'No', 1),   
    ('Pluto', 'Плутон', 1930, FALSE, FALSE, 'No', 1),
    ('Planet Nine', 'Девятая планета', 2016, FALSE, FALSE, 'No', 1),
-   ('Medusae', 'Планета Медуз', 2970, TRUE, TRUE, 'Yes', 3),   
-   ('Electra', 'Электра', 2125, TRUE, TRUE, 'Yes', 4);
+   ('Medusae', 'Планета Медуз', 2970, TRUE, TRUE, 'Yes', 3),  -- Фантастический роман Джека Уильямсона "Космический легион" (год по первому тиражу книги)
+   ('Electra', 'Электра', 2125, TRUE, TRUE, 'Yes', 4); -- Рассказ Валентины Журавлёвой "Орлёнок" (год выбран произвольно)
    
 -- Создаю таблицу moon
 
